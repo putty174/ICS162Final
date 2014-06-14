@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\dance.js">
+    <Files>
+      <File FileName="Assets\interact.js" Line="101" Column="8" />
+      <File FileName="Assets\animate.js" Line="1" Column="1" />
+      <File FileName="Assets\rose.js" Line="1" Column="1" />
+      <File FileName="Assets\Controls.js" Line="1" Column="1" />
+      <File FileName="Assets\dance.js" Line="14" Column="93" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

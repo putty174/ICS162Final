@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 6e22eee36f91e5c4e8922f5da04feb29
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bottle 01
+    100002: Bottle 02
+    100004: Bottle 03
+    100006: Bottle 04
+    100008: Bottle 05
+    100010: Bottle 06
+    100012: Bottle 07
+    100014: Bottle 08
+    100016: Bottle 09
+    100018: Bottle 10
+    100020: Bottle 11
+    100022: Bottle 12
+    100024: Bottle 13
+    100026: Bottle 14
+    100028: Bottle 15
+    100030: Bottle 16
+    100032: Bottle 17
+    100034: Bottle 18
+    100036: Bottle 19
+    100038: Bottle 20
+    100040: Bottle 23
+    100042: Bottle 25
+    100044: Bottle 34
+    100046: Bottle squar
+    100048: //RootNode
+    100050: Cork
+    100052: Plane
+    400000: Bottle 01
+    400002: Bottle 02
+    400004: Bottle 03
+    400006: Bottle 04
+    400008: Bottle 05
+    400010: Bottle 06
+    400012: Bottle 07
+    400014: Bottle 08
+    400016: Bottle 09
+    400018: Bottle 10
+    400020: Bottle 11
+    400022: Bottle 12
+    400024: Bottle 13
+    400026: Bottle 14
+    400028: Bottle 15
+    400030: Bottle 16
+    400032: Bottle 17
+    400034: Bottle 18
+    400036: Bottle 19
+    400038: Bottle 20
+    400040: Bottle 23
+    400042: Bottle 25
+    400044: Bottle 34
+    400046: Bottle squar
+    400048: //RootNode
+    400050: Cork
+    400052: Plane
+    2300000: Bottle 01
+    2300002: Bottle 02
+    2300004: Bottle 03
+    2300006: Bottle 04
+    2300008: Bottle 05
+    2300010: Bottle 06
+    2300012: Bottle 07
+    2300014: Bottle 08
+    2300016: Bottle 09
+    2300018: Bottle 10
+    2300020: Bottle 11
+    2300022: Bottle 12
+    2300024: Bottle 13
+    2300026: Bottle 14
+    2300028: Bottle 15
+    2300030: Bottle 16
+    2300032: Bottle 17
+    2300034: Bottle 18
+    2300036: Bottle 19
+    2300038: Bottle 20
+    2300040: Bottle 23
+    2300042: Bottle 25
+    2300044: Bottle 34
+    2300046: Bottle squar
+    2300048: Cork
+    2300050: Plane
+    3300000: Bottle 01
+    3300002: Bottle 02
+    3300004: Bottle 03
+    3300006: Bottle 04
+    3300008: Bottle 05
+    3300010: Bottle 06
+    3300012: Bottle 07
+    3300014: Bottle 08
+    3300016: Bottle 09
+    3300018: Bottle 10
+    3300020: Bottle 11
+    3300022: Bottle 12
+    3300024: Bottle 13
+    3300026: Bottle 14
+    3300028: Bottle 15
+    3300030: Bottle 16
+    3300032: Bottle 17
+    3300034: Bottle 18
+    3300036: Bottle 19
+    3300038: Bottle 20
+    3300040: Bottle 23
+    3300042: Bottle 25
+    3300044: Bottle 34
+    3300046: Bottle squar
+    3300048: Cork
+    3300050: Plane
+    4300000: Plane
+    4300002: Bottle 23
+    4300004: Bottle 19
+    4300006: Bottle 18
+    4300008: Bottle 25
+    4300010: Bottle 17
+    4300012: Bottle 16
+    4300014: Bottle 34
+    4300016: Bottle 15
+    4300018: Bottle 14
+    4300020: Cork
+    4300022: Bottle 13
+    4300024: Bottle 12
+    4300026: Bottle 11
+    4300028: Bottle 01
+    4300030: Bottle 20
+    4300032: Bottle 10
+    4300034: Bottle 03
+    4300036: Bottle 09
+    4300038: Bottle 08
+    4300040: Bottle 07
+    4300042: Bottle 06
+    4300044: Bottle 05
+    4300046: Bottle 04
+    4300048: Bottle 02
+    4300050: Bottle squar
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
